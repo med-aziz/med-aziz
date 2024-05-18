@@ -3,7 +3,7 @@
 
 📫 How to reach me aziz.jedidi1742@gmail.com
 
-📄 Know about my experiences backend developer with 2 years of experience
+📄 Backend Developer With 2 Years Of Experience
 
 ⚡ Fun fact I like playing souls games
 

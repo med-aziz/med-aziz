@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Jedidi</h1> <h3 align="center">A passionate backend developer from Tunisia</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aziz-jedidi&label=Profile%20views&color=0e75b6&style=flat" alt="md-aziz-jedidi" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-aziz-jedidi" alt="md-aziz-jedidi" /></a> </p>
 💬 Ask me about NodeJs, NestJs, GoLang, SQL, Express, Typescript, Java, Kafka...
 
-📫 How to reach me aziz.jedidi1742@gmail.com
-
 📄 Backend Developer With 2 Years Of Experience
 
 ⚡ Fun fact I like playing souls games
